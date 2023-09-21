@@ -5,7 +5,7 @@
 ## Citing
 ### BibTex
 ```
-@PROCEEDINGS{ISIC2023,
+@PROCEEDINGS{ISCI2023,
   // TODO
 }
 ```
@@ -13,3 +13,7 @@
 **If this repo is useful for you, please cite our paper.**
 
 
+# Contact
+- valentin.cl@purisima.tecnm.mx
+- blanca.zn@purisima.tecnm.mx
+- alejandro.ca@purisima.tecnm.mx
